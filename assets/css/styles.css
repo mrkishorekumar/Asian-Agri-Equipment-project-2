@@ -809,6 +809,10 @@ the website, in dark theme
   margin: 5rem 0 1rem;
 }
 
+.footer__copy a{
+  color: var(--text-color-light);
+}
+
 /*=============== SCROLL UP ===============*/
 .scrollup{
   position: fixed;
