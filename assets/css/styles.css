@@ -743,18 +743,6 @@ the website, in dark theme
   color: var(--first-color);
 }
 
-.footer__title{
-  font-size: var(--h3-font-size);
-  margin-bottom: var(--mb-1-5);
-}
-
-.footer__subscribe{
-  background-color: var(--first-color-lighten);
-  padding: .75rem;
-  display: flex;
-  justify-content: space-between;
-  border-radius: .5rem;
-}
 
 .footer__input{
   width: 70%;
@@ -810,7 +798,7 @@ the website, in dark theme
 }
 
 .footer__copy a{
-  color: var(--text-color-light);
+  color:var(--text-color-light);
 }
 
 /*=============== SCROLL UP ===============*/
