@@ -410,8 +410,10 @@ the website, in dark theme
 }
 
 .about__img{
-  width: 280px;
+  width: 550px;
+  height: 350px;
   justify-self: center;
+  border-radius: 5%;
 }
 
 .about__title{
